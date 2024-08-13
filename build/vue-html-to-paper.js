@@ -106,6 +106,4 @@
   exports.VueHtmlToPaper = VueHtmlToPaper;
   exports.useHtmlToPaper = useHtmlToPaper;
 
-  Object.defineProperty(exports, '__esModule', { value: true });
-
 }));

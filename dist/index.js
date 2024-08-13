@@ -1,7 +1,5 @@
 'use strict';
 
-Object.defineProperty(exports, '__esModule', { value: true });
-
 function addStyles (win, styles) {
   styles.forEach((style) => {
     let link = win.document.createElement('link');
